@@ -82,4 +82,11 @@ Upload any PDF or DOCX → GPT-4 auto-generates a multiple-choice quiz instantly
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ashrafdevx&color=0e75b6&style=flat&label=Profile+Views)
 
-**💼 Open to Senior Frontend & MERN roles · Available for remote contracts**
+---
+<p align="center">
+  <b>🟢 Available for hire — Senior Frontend / MERN Stack roles</b><br/>
+  Remote · Contract · Full-time · Open to relocation discussions<br/>
+  <a href="mailto:ashraf.devx@gmail.com">Email me</a> · 
+  <a href="https://linkedin.com/in/ashrafasib">LinkedIn</a> · 
+  <a href="https://github.com/ashrafdevx">GitHub</a>
+</p>
