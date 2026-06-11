@@ -47,11 +47,11 @@ I write clean, typed, maintainable code and own features from design to deployme
 
 ## 📊 GitHub Stats
 
-![Ashraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashrafdevx&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafdevx&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ashrafdevx&theme=github-dark&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafdevx&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafdevx&theme=github-compact&hide_border=true&area=true" height="160" />
+</p>
 ---
 
 ## 🚀 Featured Projects
