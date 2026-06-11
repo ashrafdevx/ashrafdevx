@@ -4,7 +4,7 @@
 
 > Building fast, clean, production-ready web apps — from Figma to deployment.
 
-📍 Lahore, Pakistan &nbsp;·&nbsp; 🌐 Open to remote &nbsp;·&nbsp; 💼 Open to on-site roles in Lahore
+📍 Pakistan &nbsp;·&nbsp; 🌐 Open to remote &nbsp;·&nbsp; 💼 Open to on-site roles
 
 ---
 
@@ -81,4 +81,4 @@ Upload any PDF or DOCX → GPT-4 auto-generates a multiple-choice quiz instantly
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ashrafdevx&color=0e75b6&style=flat&label=Profile+Views)
 
-**💼 Open to Senior Frontend & MERN roles in Lahore · Available for remote contracts**
+**💼 Open to Senior Frontend & MERN roles · Available for remote contracts**
