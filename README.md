@@ -52,6 +52,7 @@ I write clean, typed, maintainable code and own features from design to deployme
   &nbsp;&nbsp;
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashrafdevx&theme=github-compact&hide_border=true&area=true" height="160" />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
